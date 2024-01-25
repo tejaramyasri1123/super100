@@ -29,4 +29,3 @@ account = BankAccount("John Doe", "1234567890")
 account.deposit(1000)
 account.withdraw(500)
 account.display_balance()
-
